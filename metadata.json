@@ -1,0 +1,8 @@
+{
+  "name": "The SERVER - Multiplayer Minecraft Network",
+  "description": "Official website for The SERVER Minecraft multiplayer network. Check live server status, shop ranks and perks, view leaderboards, server rules, upcoming community events, and join via Java and Bedrock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
